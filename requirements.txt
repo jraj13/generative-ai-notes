@@ -25,7 +25,7 @@ openai==2.45.0
 # Embeddings / vector store
 chromadb==1.5.9
 sentence-transformers==5.6.0
-torch==2.2.2
+torch==2.13.0
 # transformers + huggingface-hub must satisfy langchain-huggingface (>=0.33.4)
 transformers>=4.44.2,<5
 huggingface-hub>=0.33.4,<1.0
