@@ -33,7 +33,7 @@ numpy==1.26.4
 
 # Utilities used across examples
 python-dotenv==1.2.2
-pypdf==6.14.2
+pypdf==6.19.0
 requests==2.34.2
 
 # HTTP APIs, triggers & webhooks (Session 36 — multi_agent_http_automation)
